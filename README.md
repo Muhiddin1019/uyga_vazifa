@@ -1,0 +1,2 @@
+# uyga_vazifa
+githup
